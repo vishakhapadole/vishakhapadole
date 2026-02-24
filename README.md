@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I’m currently working on<br><br>React Native & Android app development<br><br>Java, Python, SQL & problem-solving<br><br>Data analytics & Power BI dashboards<br><br>🤝 I’m open to<br><br>Data Science | Software Engineering | Android Developer opportunities<br><br>Collaborating on mobile apps & data-driven projects<br><br>🌱 I’m currently learning<br><br>Prompt Engineering & AI tools<br><br>System design & scalable architecture<br><br>💬 Ask me about<br><br>EduTech App<br><br>Mobile UI/UX & Android internship experience<br><br>⚡ Fun fact<br><br>I enjoy converting ideas into real-world apps and analytics solutions 🚀
+👩‍💻 I’m currently working on<br>React Native & Android app development<br>Java, Python, SQL & problem-solving<br>Data analytics & Power BI dashboards<br><br>🤝 I’m open to<br>Data Science | Software Engineering | Android Developer opportunities<br><br>Collaborating on mobile apps & data-driven projects<br>🌱 I’m currently learning<br>Prompt Engineering & AI tools<br>System design & scalable architecture<br><br>💬 Ask me about<br>Apps<br>Mobile UI/UX & Android internship experience<br><br>⚡ Fun fact<br>I enjoy converting ideas into real-world apps and analytics solutions 🚀
 
 
 ## 🌐 Socials:
